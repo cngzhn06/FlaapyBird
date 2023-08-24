@@ -11,6 +11,8 @@ Python ve Pygame kullanılarak oluşturulan basit bir Flappy Bird oyunu.
 4. Fare tıklamalarıyla kuşun uçmasını sağlayın, engellere çarpışın.
 
 **Ekran Görüntüleri:**
+
+
 ![image](https://github.com/cngzhn06/Flappy_Bird/assets/95685025/1b4eadfa-38e9-4765-b389-ee6715ed6d66)
 ![Ekran görüntüsü 2023-08-25 000951](https://github.com/cngzhn06/Flappy_Bird/assets/95685025/f2c261f9-cbe0-4ffb-aa1e-75c10355634a)
 
