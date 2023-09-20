@@ -7,7 +7,7 @@ Python ve Pygame kullanılarak oluşturulan basit bir Flappy Bird oyunu.
 **Kullanım:**
 
 1. Gerekli paketi yükleyin: `pip install pygame`.
-2. Oyunu başlatın: `python flappy_bird.py`.
+2. Oyunu başlatın: `python main.py`.
 3. Fare tıklamalarıyla kuşun uçmasını sağlayın, engellere çarpmayın.
 
 **Ekran Görüntüleri:**
